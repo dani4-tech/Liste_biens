@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "image": "https://picsum.photos/seed/sac1/400/400",
+    "titre": "Sac à main cuir premium",
+    "description": "Sac en cuir véritable, fabrication artisanale, doublure intérieure en coton.",
+    "categorie": "Mode",
+    "prix": 89.90
+  },
+  {
+    "id": 2,
+    "image": "https://picsum.photos/seed/casque2/400/400",
+    "titre": "Casque audio sans fil",
+    "description": "Réduction de bruit active, autonomie 30h, connexion Bluetooth 5.0.",
+    "categorie": "High-Tech",
+    "prix": 59.00
+  },
+  {
+    "id": 3,
+    "image": "https://picsum.photos/seed/lampe3/400/400",
+    "titre": "Lampe de bureau LED",
+    "description": "Éclairage réglable en intensité et température de couleur, port USB intégré.",
+    "categorie": "Maison",
+    "prix": 34.50
+  },
+  {
+    "id": 4,
+    "image": "https://picsum.photos/seed/montre4/400/400",
+    "titre": "Montre connectée sport",
+    "description": "Suivi cardiaque, GPS intégré, étanche 50m, autonomie 7 jours.",
+    "categorie": "High-Tech",
+    "prix": 129.00
+  },
+  {
+    "id": 5,
+    "image": "https://picsum.photos/seed/veste5/400/400",
+    "titre": "Veste en jean unisexe",
+    "description": "Coupe classique, denim brut, doublure chaude pour la mi-saison.",
+    "categorie": "Mode",
+    "prix": 45.00
+  },
+  {
+    "id": 6,
+    "image": "https://picsum.photos/seed/coussin6/400/400",
+    "titre": "Coussin décoratif velours",
+    "description": "Housse en velours doux, 45x45cm, plusieurs coloris disponibles.",
+    "categorie": "Maison",
+    "prix": 19.90
+  },
+  {
+    "id": 7,
+    "image": "https://picsum.photos/seed/enceinte7/400/400",
+    "titre": "Enceinte Bluetooth portable",
+    "description": "Son 360°, résistante aux éclaboussures, autonomie 12h.",
+    "categorie": "High-Tech",
+    "prix": 39.90
+  },
+  {
+    "id": 8,
+    "image": "https://picsum.photos/seed/sneakers8/400/400",
+    "titre": "Sneakers running",
+    "description": "Semelle amortissante, mesh respirant, léger et confortable.",
+    "categorie": "Mode",
+    "prix": 74.90
+  },
+  {
+    "id": 9,
+    "image": "https://picsum.photos/seed/plante9/400/400",
+    "titre": "Plante artificielle décorative",
+    "description": "Effet réaliste, pot en céramique inclus, hauteur 60cm.",
+    "categorie": "Maison",
+    "prix": 27.00
+  },
+  {
+    "id": 10,
+    "image": "https://picsum.photos/seed/clavier10/400/400",
+    "titre": "Clavier mécanique RGB",
+    "description": "Switches bleus, rétroéclairage personnalisable, connexion filaire.",
+    "categorie": "High-Tech",
+    "prix": 69.00
+  },
+  {
+    "id": 11,
+    "image": "https://picsum.photos/seed/echarpe11/400/400",
+    "titre": "Écharpe en laine mérinos",
+    "description": "Douce et chaude, tissage traditionnel, plusieurs coloris.",
+    "categorie": "Mode",
+    "prix": 24.90
+  },
+  {
+    "id": 12,
+    "image": "https://picsum.photos/seed/bougie12/400/400",
+    "titre": "Bougie parfumée artisanale",
+    "description": "Cire de soja, parfum vanille-bois de santal, 40h de combustion.",
+    "categorie": "Maison",
+    "prix": 15.50
+  }
+]
