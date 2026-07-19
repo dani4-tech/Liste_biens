@@ -5,7 +5,7 @@ Application mobile avec authentification, catalogue de produits et persistance d
 ## Structure du projet
 
 ```
-projet_devoir/
+projet/
 ├── server/
 │   ├── data/
 │   │   ├── users.json
